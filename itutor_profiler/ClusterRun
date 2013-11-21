@@ -1,0 +1,3 @@
+#/bin/sh
+cd ../blocks/itutor_profiler
+java -jar  ClusterRun.jar >> clusterrun.log
